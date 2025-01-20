@@ -58,6 +58,8 @@ For this project, I used Google Colab, leveraging its Jupyter Notebook interface
 
 
 
+**The complete Google Colab notebook, displaying the coding and all resulting data visualisations, can be accessed [here](https://github.com/03LimbuA/Netflix-data-analysis/blob/main/Copy_of_netfllixDATAofficial.ipynb).**
+
 ## The code
 
 ```python
