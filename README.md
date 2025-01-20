@@ -24,6 +24,20 @@ For this project, I used Google Colab, leveraging its Jupyter Notebook interface
 - next, we examine the no. of data entries for each release year (below image doesn't display all the rows outputted) 
 <img src="https://github.com/user-attachments/assets/0a66a6a0-e60d-448e-9ad8-002c13a0a83d" width="80" height="100">
 
+- we create a bar chart to showcase the top 10 countries which produce the most content on Netflix
+<img src="https://github.com/user-attachments/assets/a62d0435-f712-47b2-a771-6332d412e7fa" width="350" height="250">
+
+- we examine the top 20 most common durations for Netflix **Movies** (the data is displayed in ascending order) - the image below doesn't display all the rows outputted
+<img src="https://github.com/user-attachments/assets/9d0da5e1-a8b8-4af0-b1e5-2589ecbefbe0" width="80" height="100">
+
+- next, we visually display the information above through an area chart
+<img src="https://github.com/user-attachments/assets/5f2fc80b-ad0a-49b1-8b67-ddb6d1aca514" width="350" height="250">
+
+- This time, for **TV Shows**, we examine the top 20 most common durations (the data is displayed in ascending order) - the image below doesn't display all the rows outputted
+<img src="https://github.com/user-attachments/assets/32943574-aef3-4e41-a527-d3482aab7be1" width="80" height="100">
+
+- Again, we visually display the information above through a bar chart
+<img src="https://github.com/user-attachments/assets/80713d1a-6ab5-4677-a21e-f5482258892e" width="350" height="250">
 
 
 
