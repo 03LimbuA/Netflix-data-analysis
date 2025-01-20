@@ -4,7 +4,7 @@ This data analysis project, inspired by and following the tutorial of Youtube Ch
 
 For this project, I used Google Colab, leveraging its Jupyter Notebook interface to write and execute Python code. This setup allowed me to analyse the data interactively and visualise the results from the analysis. The complete Google Colab notebook, displaying the coding and resulting data visualisations, can be accessed [here](https://github.com/03LimbuA/Netflix-data-analysis/blob/main/Copy_of_netfllixDATAofficial.ipynb).
 
-## Setting up our data analysis environment:
+## The Process
 
 - Since we’re using python, we import some essential libraries (numpy for numerical operations, pandas for data manipulation, matplotlib for creating visualisations) 
 - These libraries provide us with the tools to explore and visualise the dataset
@@ -39,11 +39,27 @@ For this project, I used Google Colab, leveraging its Jupyter Notebook interface
 - Again, we visually display the information, above, through a bar chart
 <img src="https://github.com/user-attachments/assets/80713d1a-6ab5-4677-a21e-f5482258892e" width="350" height="250">
 
+- Next, we'll look at the top 20 directors with the most content on Netflix - the image below doesn't display all the rows outputted
+<img src="https://github.com/user-attachments/assets/6b3bb368-84cc-4d1f-b27b-06c8581874f3" width="200" height="170">
+
+- We visualise this information, to gain a better understanding of the directors' contributions to Netflix 
+<img src="https://github.com/user-attachments/assets/8617a5b1-7c4f-49e1-8a69-4735ddeb1dd3" width="350" height="250">
+
+- Next, we'll look at the unique content categories (aka genre/theme) in our Netflix data set - we find that there are 42 different categories (the image below doesn't display all the rows outputted)
+<img src="https://github.com/user-attachments/assets/ea0c2800-7017-400d-be8e-40b1878c60d8" width="170" height="130">
+
+- We, then, display the top 20 most-occurring categories in our dataset (image below doesn't display all the rows outputted)
+<img src="https://github.com/user-attachments/assets/4b21cd80-cce8-4eae-9df9-c96dfe5a2ad0" width="260" height="150">
+
+- Next, we'll look at how many times each category appears in our dataset, allowing us to see which content categories are the most and least common on Netflix
+<img src="https://github.com/user-attachments/assets/cb89d9c4-921c-489a-a60f-213624f776bd" width="260" height="150">
+
+- We visualise this finding through a bar chart
+<img src="https://github.com/user-attachments/assets/7f5be62a-42c2-4470-be56-3ad0a3177ded" width="350" height="250">
 
 
 
 ## The code
-
 
 ```python
 import numpy as np
