@@ -17,7 +17,7 @@ For this project, I used Google Colab, leveraging its Jupyter Notebook interface
 <img src="https://github.com/user-attachments/assets/0956595e-076a-4be2-8a7d-55fe65528360" width="400" height="100">
 
 - 'df["type"].unique()' shows us the distinct content types in our data set; we get back 2 distinct types - TV Shows and Movies
-- with a pie chart, we can display the 2 different content types, and how much of the data is attributed each content type:
+- with a pie chart, we can display the 2 different content types, and how much of the data is attributed to each content type:
 <img src="https://github.com/user-attachments/assets/5906ac01-55db-44bb-a668-3865c40455a5" width="280" height="200">
 
 - next, we examine the no. of data entries for each release year (below image doesn't display all the rows outputted) 
