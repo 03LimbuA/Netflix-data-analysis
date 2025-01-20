@@ -13,7 +13,6 @@ For this project, I used Google Colab, leveraging its Jupyter Notebook interface
 - 'df.info()' gives us details, such as the no. of non-NULL entries, data types, columns - information which is crucial for data processing and ensuring that the data is in the right format for analysis
 <img src="https://github.com/user-attachments/assets/9837f16d-c305-4c33-ab57-4d9840a33ebc" width="280" height="200">
 
-- looking at the data summary statistics: we use 'df.describe
 - 'df["release_year"].unique()' gives us a list of the distinct years in which the content in our data set was released
 <img src="https://github.com/user-attachments/assets/0956595e-076a-4be2-8a7d-55fe65528360" width="400" height="100">
 
