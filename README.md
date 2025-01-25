@@ -1,6 +1,6 @@
 # Netflix-data-analysis
 
-This data analysis project, inspired by and following the tutorial of Youtube Channel [Data Analytics](https://www.youtube.com/@data_analytics69), examines a tabular dataset that encompasses listings of all movies and TV shows available on Netflix, including key details such as cast, ratings, directors, and duration. The official dataset is sourced from [Kaggle Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows). 
+This data analysis project, inspired by Youtube Channel [Data Analytics](https://www.youtube.com/@data_analytics69), examines a tabular dataset that encompasses listings of all movies and TV shows available on Netflix, including key details such as cast, ratings, directors, and duration. The official dataset is sourced from [Kaggle Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows). 
 
 For this project, I used Google Colab, leveraging its Jupyter Notebook interface to write and execute Python code. This setup allowed me to analyse the data interactively and visualise the results from the analysis. The complete Google Colab notebook, displaying the coding and resulting data visualisations, can be accessed [here](https://github.com/03LimbuA/Netflix-data-analysis/blob/main/Copy_of_netfllixDATAofficial.ipynb).
 
