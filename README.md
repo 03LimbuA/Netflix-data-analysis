@@ -6,7 +6,7 @@ For this project, I used Google Colab, leveraging its Jupyter Notebook interface
 
 ## Analysis findings
 - The data separates Netflix content into 2 different content types (TV Show and Movie)
-- The data contains Netflix releases from years 2017 - 2021
+- The data contains Netflix releases from years 1925 - 2021
 - United States is the top country, in terms of producing the most content on Netflix (followed by India in second place)
 - The most common duration for Movies on Netflix seems to be 90 minutes and longer
 - The most common duration for TV Shows on Netflix seems to be 1 season 
