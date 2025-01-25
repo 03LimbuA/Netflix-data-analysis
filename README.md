@@ -4,7 +4,17 @@ This data analysis project, inspired by Youtube Channel [Data Analytics](https:/
 
 For this project, I used Google Colab, leveraging its Jupyter Notebook interface to write and execute Python code. This setup allowed me to analyse the data interactively and visualise the results from the analysis. The complete Google Colab notebook, displaying the coding and resulting data visualisations, can be accessed [here](https://github.com/03LimbuA/Netflix-data-analysis/blob/main/Copy_of_netfllixDATAofficial.ipynb).
 
-## The Analysis
+## Analysis findings
+- The data separates Netflix content into 2 different content types (TV Show and Movie)
+- The data contains Netflix releases from years 2017 - 2021
+- United States is the top country, in terms of producing the most content on Netflix (followed by India in second place)
+- The most common duration for Movies on Netflix seems to be 90 minutes and longer
+- The most common duration for TV Shows on Netflix seems to be 1 season 
+- The director with the most content on Netflix is Rajiv Chilaka, with 19 contents (closely followed by, Raul Campos and Jan Suter)
+- The data contains information on 42 different genres/themes
+- The three most occurring genres/themes for Netflix content seem to be Dramas, International Movies, and Comedies
+
+## The Analysis Process
 
 - Since we’re using python, we import some essential libraries (numpy for numerical operations, pandas for data manipulation, matplotlib for creating visualisations) 
 - These libraries provide us with the tools to explore and visualise the dataset
